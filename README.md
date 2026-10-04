@@ -21,6 +21,3 @@ Le jeton est saisi dans l'éditeur mais n'est pas enregistré dans le code, dans
 ## Limite importante
 
 GitHub Pages est statique. Il n'existe donc pas de vraie authentification serveur `/admin`. La sécurité repose sur le jeton GitHub. Ne mets jamais un jeton directement dans le code du site.
-
-## Modifier le règlement
-Modifiez `content.json`, puis envoyez le fichier sur GitHub.
